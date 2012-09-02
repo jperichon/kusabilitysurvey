@@ -1,7 +1,12 @@
 ##Project background
 
 This framework has been developed during the Google Summer of Code 2011, for KDE.
-It allows designers to collect information about user’s experiences and usability problems with software by attaching small surveys to events or services
+It allows designers to collect information about user’s experiences and usability problems with software by attaching small surveys to events or services.
+
+The development is in C++ and respects the KDE's library code policies
+(especially it implements Shared D-Pointers
+ http://techbase.kde.org/Policies/Library_Code_Policy/Shared_D-Pointer_Example).
+It requires both KDE and Boost libraries.
 
 ##What has been done?
 
