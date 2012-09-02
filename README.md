@@ -6,6 +6,7 @@ It allows designers to collect information about user’s experiences and usabil
 The development is in C++ and respects the KDE's library code policies
 (especially it implements Shared D-Pointers
  http://techbase.kde.org/Policies/Library_Code_Policy/Shared_D-Pointer_Example).
+
 It requires both KDE and Boost libraries.
 
 ##What has been done?
