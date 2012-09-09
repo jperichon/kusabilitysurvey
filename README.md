@@ -1,4 +1,4 @@
-#Project background
+##Project background
 
 This framework has been developed during the Google Summer of Code 2011, for KDE.
 It allows designers to collect information about user’s experiences and usability problems with software by attaching small surveys to events or services.
@@ -16,12 +16,12 @@ It requires both KDE and Boost libraries.
 Number, Text, [Description], Response type, AcceptableResp1 | ... | AcceptableRespN, Option1 | ... | OptionN
 ```
 
-##Text
+###Text
 ```
 1, My text question, , Text, , [maxLength]
 ```
 
-##Scale
+###Scale
 ```
 1, My linear scale question, , Scale, M | N, [itemMin | itemMax]
 ```
@@ -83,7 +83,7 @@ Number, Text, [Description], Response type, AcceptableResp1 | ... | AcceptableRe
 ```
 
 
-#What has been done?
+##What has been done?
 
 - Parsing and generating CSV files.
 - Management of the objects related to the survey and to the different types of questions
