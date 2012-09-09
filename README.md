@@ -29,7 +29,7 @@ Number, Text, [Description], Response type, AcceptableResp1 | ... | AcceptableRe
 1, My scale question with icons, Scale, http://.../icon1.png | ... | http://.../iconN.png, [itemMin, itemMax]
 ```
 
-##Grid
+###Grid
 ```
 1, My linear grid question, , Grid, M | N, item1 | ... | itemN
 ```
@@ -37,7 +37,7 @@ Number, Text, [Description], Response type, AcceptableResp1 | ... | AcceptableRe
 1, My grid question with icons, , Grid, http://.../icon1.png | ... | http://.../iconN.png, item1 | ... | itemN
 ```
 
-##List
+###List
 ```
 1, My list question, , List, item1 | ... | itemN,
 ```
@@ -45,7 +45,7 @@ Number, Text, [Description], Response type, AcceptableResp1 | ... | AcceptableRe
 1, My list question with icons, , List, http://.../icon1.png | ... | http://.../iconN.png
 ```
 
-##Checkbox
+###Checkbox
 ```
 1, My checkbox question, , Checkbox, item1 | ... | itemN, [nbMaxItemsSelectable]
 ```
@@ -53,35 +53,34 @@ Number, Text, [Description], Response type, AcceptableResp1 | ... | AcceptableRe
 1, My checkbox question with icons, , Checkbox, http://.../icon1.png | ... | http://.../iconN.png, [nbMaxItemsSelectable]
 ```
 
-##Radiobutton
+###Radiobutton
 ```
 1, My radiobutton question, , Radiobutton, item1 | ... | itemN,
 ```
 ```
 1, My radiobutton question with icons, , Radiobutton, http://.../icon1.png | ... | http://.../iconN.png,
 ```
-##Button
+###Button
 ```
 1, My button question, , Button, item1 | ... | itemN,
 ```
 ```
 1, My button question with icons, , Button, http://.../icon1.png | ... | http://.../iconN.png,
 ```
-##Like
+###Like
 ```
 1, My like question, , Like, ,
 ```
 
-##Smiley scale
+###Smiley scale
 ```
 1, My smiley scale question, , SmileyScale, , [itemMin | itemMax]
 ```
 
-##Smiley grid
+###Smiley grid
 ```
 1, My smiley grid, , SmileyGrid, , item1 | ... | itemN
 ```
-
 
 ##What has been done?
 
