@@ -9,9 +9,9 @@ The development is in C++ and respects the KDE's library code policies
 
 It requires both KDE and Boost libraries.
 
-#Questions templates
+##Questions templates
 
-##General structure
+###General structure
 ```
 Number, Text, [Description], Response type, AcceptableResp1 | ... | AcceptableRespN, Option1 | ... | OptionN
 ```
